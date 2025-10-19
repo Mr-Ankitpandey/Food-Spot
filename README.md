@@ -2,6 +2,8 @@
 
 A React + Vite food ordering UI showcasing product listing, cart management with Redux Toolkit, and a protected checkout flow.
 
+##Live View:- https://foodspot7101.netlify.app/
+
 ## Key ideas / summary
 - Single-page React app bootstrapped with Vite. See [`vite.config.js`](vite.config.js).
 - Client-side routing with `react-router-dom` via [`App`](src/App.jsx).
